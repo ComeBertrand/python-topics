@@ -15,6 +15,8 @@ Documentation about as many python topics as possible
 
 ### Files
 
+### Exceptions
+
 
 ## Medium
 
